@@ -1,0 +1,8 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Myapi
+metadata:
+  name: myapi-sample
+  namespace: system
+spec:
+  size: 1
+  # TODO(user): Add fields here

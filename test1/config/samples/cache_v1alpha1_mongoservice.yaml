@@ -1,0 +1,7 @@
+apiVersion: cache.example.com/v1alpha1
+kind: Mongoservice
+metadata:
+  name: mongoservice-sample
+  namespace: system
+spec:
+  # TODO(user): Add fields here

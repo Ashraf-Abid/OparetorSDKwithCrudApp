@@ -1,0 +1,6 @@
+## Append samples you want in your CSV to this file as resources ##
+resources:
+- cache_v1alpha1_mongo.yaml
+- cache_v1alpha1_myapi.yaml
+- cache_v1alpha1_mongoservice.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples
